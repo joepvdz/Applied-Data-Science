@@ -3,9 +3,7 @@
 <!-- DataCamp-->
 <details>
   <summary>DataCamp</summary>
-  <ol>
-    ![alt text](https://github.com/joepvdz/Applied-Data-Science/blob/main/Images/Schermafbeelding%202022-01-10%20125202.png?raw=true)
-  </ol>
+   ![Schermafbeelding 2022-01-10 125202](https://user-images.githubusercontent.com/91059880/148808707-23a18cb0-5cdb-4d04-9198-a5274ee61d8f.png)
 </details>
 
 <!-- Reflectie & evalutie -->
