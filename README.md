@@ -4,7 +4,12 @@
 <details>
   <summary>DataCamp</summary>
   <ol>
-  ![image](https://user-images.githubusercontent.com/91059880/148804746-b6d7bade-9854-4975-be3b-7314719d425f.png)
+  <br />
+<div align="center">
+  <a href="https://github.com/joepvdz/Applied-Data-Science">
+    <img src="images/Schermafbeelding 2022-01-10 125202.png" alt="Datacamp" width="200" height="400">
+  </a>
+</div>
   </ol>
 </details>
 
