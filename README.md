@@ -4,11 +4,7 @@
 <details>
   <summary>DataCamp</summary>
   <ol>
-<div align="center">
-  <a href="https://github.com/joepvdz/Applied-Data-Science">
-    <img src="images/Schermafbeelding 2022-01-10 125202.png" alt="Datacamp" width="200" height="400">
-  </a>
-</div>
+    ![alt text](https://github.com/joepvdz/Applied-Data-Science/blob/main/Images/Schermafbeelding%202022-01-10%20125202.png?raw=true)
   </ol>
 </details>
 
