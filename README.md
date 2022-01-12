@@ -138,18 +138,22 @@ De hoofdvraag bestaad uit de volgende deelvragen:<br />
   </ol>
 </details>
     
-  <!-- Evaluatie -->
+  <!-- Evaluatie & Conclusie -->
   <details>
-  <summary>Evaluatie</summary>
-  <ol>
-Hier evalueer ik het proces
-</details>
- 
- <!-- Conclusie -->
-  <details>
-  <summary>Conclusie</summary>
-  <ol>
-Hier volgt de conclusie
+  <summary>Evaluatie & Conclusie</summary>
+  
+Om onze hoofdvraag te beantwoorden, moeten we eerst onze deelvragen beantwoorden.<br />
+Voor onze eerste deelvraag kon worden geconcludeerd dat niet alle gegevens die we ontvingen bruikbaar waren. We ontdekten bijvoorbeeld dat voor ons model de waargenomen motorische competentie niet zo nuttig was als we aanvankelijk hadden gedacht. De gegevens uit de vragenlijst uit T0-gegevens waren niet volledig genoeg om bruikbaar te zijn. Dit liet niet veel gegevens over om op te trainen, wat zou kunnen verklaren waarom onze modellen overbemeten zijn.<br />
+    
+Tijdens het onderzoek stuitten we op gegevens van het Centraal Bureau voor de Statistiek, maar we konden deze niet samenvoegen met onze t0-gegevens omdat de CBS-gegevens te complex waren. Voor toekomstig werk kan het nuttig zijn om gegevens van het Centraal Bureau voor de Statistiek te onderzoeken.<br />
+Onze resultaten laten duidelijk zien dat het gebruik van een binaire classificatie het beste werkt voor ons onderzoek, omdat we alleen proberen te voorspellen of een kind motorische competentie zal missen, de verschillende categorieën doen er niet zoveel toe.<br />
+    
+Hoewel onderzoek suggereert om een Random Forest-model te gebruiken (Gokten en Uyulan, 2021) kwamen we na het uitvoeren en evalueren van verschillende modellen tot de conclusie dat het Random Forest niet geschikt is voor ons onderzoek en daarom moet worden verwijderd. In tabel (binaire classificatie) wordt afgebeeld dat het k-nearest-neighbours-model het beste presteerde voor ons onderzoek. De Bagging Classifier heeft het laagste percentage fout-negatieven, maar dit model past slechter dan kNN (zoals afgebeeld in de binaire classificatie van de tabel), dus hebben we besloten om het kNN-model te gebruiken om dit te voorkomen.<br />
+    
+Een mogelijke reden voor overfitting kan ook zijn dat we t0-gegevens hebben gebruikt voor het voorspellen van de MQ-categorie van t1, omdat de leercurve voor motorische vaardigheden op een bepaald moment steiler zal worden voor kinderen met goede motorische vaardigheden, terwijl deze zal afvlakken voor kinderen met slechte motorische vaardigheden ( Haga, 2009).<br />
+Om de toekomstige motorische competentie van kinderen correct te kunnen voorspellen, zou er mogelijk meer variantie moeten zijn in de gegevens van de kinderen met lage motorische vaardigheden. Een jaar kan ook niet lang genoeg zijn om een ​​goede trend van de score per kind te krijgen. Een soortgelijk onderzoek toonde aan dat er een significant verschil is na 32 maanden (Haga, 2009).
+We ontdekten in onze resultaten dat er geen gemeenschappelijke kenmerken zijn in onze dataset. Dit kan zijn omdat waargenomen motorische competentie geen invloed heeft op motorische vaardigheden. Ook omdat kinderen onder de acht jaar geen goed zelfbeeld hebben van hun vaardigheden (Morano, 2020). <br />
+    
 </details>
    
  <!-- Planning -->
