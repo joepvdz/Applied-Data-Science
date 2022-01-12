@@ -132,21 +132,21 @@ Hier evalueer ik het proces
    
   <!-- Introductie in het vakgebied -->
   <details>
-  <summary>Model visualiseren</summary>
+  <summary>Introductie in het vakgebied</summary>
   <ol>
 Hier evalueer ik het proces
 </details>
    
-  <!-- Model visualiseren -->
+  <!-- Literatuur onderzoek -->
   <details>
-  <summary>Model visualiseren</summary>
+  <summary>Literatuur onderzoek</summary>
   <ol>
 Hier evalueer ik het proces
 </details>
    
-  <!-- Model visualiseren -->
+  <!-- Uitleg van termen, jargon en definities -->
   <details>
-  <summary>Model visualiseren</summary>
+  <summary>Uitleg van termen, jargon en definities</summary>
   <ol>
 Hier evalueer ik het proces
 </details>
@@ -154,11 +154,47 @@ Hier evalueer ik het proces
   </ol>
 </details>
 
-<!-- Data voorbereiding -->
+<!-- Data voorverwerking -->
 <details>
+  <summary>Data voorverwerking</summary>
+  <ol>
+
+  <!-- Data verkenning -->
+  <details>
+  <summary>Data verkenning</summary>
+  <ol>
+Hier evalueer ik het proces
+</details>
+    
+  <!-- Data schoonmaken -->
+  <details>
+  <summary>Data schoonmaken</summary>
+  <ol>
+Hier evalueer ik het proces
+</details>
+    
+  <!-- Data voorbereiding -->
+  <details>
   <summary>Data voorbereiding</summary>
   <ol>
-   
+Hier evalueer ik het proces
+</details>
+    
+  <!-- Data uitleg -->
+  <details>
+  <summary>Data uitleg</summary>
+  <ol>
+Hier evalueer ik het proces
+</details>
+    
+  <!-- Data visualisatie -->
+  <details>
+  <summary>Data visualisatie</summary>
+  <ol>
+Hier evalueer ik het proces
+</details>
+    
+
   </ol>
 </details>
 
@@ -166,6 +202,21 @@ Hier evalueer ik het proces
 <details>
   <summary>Communicatie</summary>
   <ol>
+    
+  <!-- Presentaties -->
+  <details>
+  <summary>presentatie</summary>
+  <ol>
+Hier evalueer ik het proces
+</details>
+    
+  <!-- Paper schrijven-->
+  <details>
+  <summary>Paper schrijven</summary>
+  <ol>
+Hier evalueer ik het proces
+</details>
+    
    
   </ol>
 </details>
