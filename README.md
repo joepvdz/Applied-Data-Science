@@ -160,7 +160,9 @@ We ontdekten in onze resultaten dat er geen gemeenschappelijke kenmerken zijn in
   <details>
   <summary>Planning</summary>
   <ol>
-Hier volgt de planning
+
+ ![](Images/Gannt.png)
+ 
 </details>
     
   </ol>
