@@ -82,7 +82,36 @@ Doordat ik verantwoordelijkheden aannam waarvan ik van te voren al wist dat dit 
   <details>
   <summary>Het project</summary>
   <ol>
-Hier evalueer ik het proces
+
+ Voor de groepsevaluatie bespreek ik eerst een succes en een leerpunt van onze samenwerking en vervolgens geef ik reflecteer ik kort op het groepsproces door middel van de star methode.<br />
+    
+- Een succes tijdens onze samenwerking<br />
+Het samenwerken tijdens de COVID-19 pandemie:<br /> 
+Het is een groot compliment voor het team hoe wij hebben samengewerkt tijdens de pandemie en alle beperkingen die dit oplevert. Het team heeft iedere week geprobeerd om minimaal drie keer in de week op locatie te vergaderen om zo met elkaar samen te werken. Ook hadden wij iedere ochtend stand-up ingeroosterd waarbij de bevindingen van de dag er voor en de doelen voor de aankomende dagen werden besproken. <br />
+    
+- Een leerpunten tijdens onze samenwerking:<br />
+Het verbinden van consequenties aan het niet nakomen van afspraken: <br />
+Een leerpunt is voor het team om op een professionele manier harder te kunnen zijn naar elkaar. Het elkaar kunnen aanspreken op de verantwoordelijkheden die aangewezen afgesproken waren, ontbrak bij team Motoric gedurende het project. Dit resulteerde in het veelal te laat aanwezig zijn bij vergaderingen door het gehele team en het ontbreken van duidelijke deadlines. Hierdoor was de sfeer in de groep goed, maar ontbrak het op een gegeven moment aan resultaten.<br />
+    Dit is in het vervolg te voorkomen door harde afspraken met elkaar te maken en wanneer iemand zich vervolgens niet aan die afspraken houdt, moet diegene hierop aangesproken worden. Ook kunnen deze thema’s vervolgens besproken worden bij de dagelijkse stand-up.<br />
+    
+De situatie die ik wil uitlichten heeft betrekking op het leerpunt tijdens onze samenwerking en is als volgt:<br />
+    
+Situatie:<br />
+Het team was verdeeld in een groep die verantwoordelijkheid nam voor de paper en een deel voor de code. De paper was klaar tot de resultaten. De code was niet klaar. De groep van de paper stond stil.<br />
+    
+Taak:<br />
+Ik was verantwoordelijk voor de paper<br />
+    
+Actie:<br />
+Ik toonde begrip dat de code nog niet af was want ik begreep het zelf niet, dus ik kon er ook niks over inbrengen.<br />
+    
+Resultaat:<br />
+De code was 3 weken te laat af, de code was minimaal en de paper moest gehaast geschreven worden. Wat vervolgens weer resulteert in een niet optimaal resultaat.
+Vanaf het begin van het project duidelijke deadlines stellen en elkaar hier aan houden. Ook kan in het vervolg (sneller) beroep gedaan worden op de docenten wanneer iets niet duidelijk is. Deze gaven namelijk al in het begin van het project aan open te staan om ons te helpen en niet alleen om ons te beoordelen.<br />
+    
+(414 woorden)
+
+    
 </details>
     
   </ol>
@@ -142,7 +171,29 @@ Hier volgt de planning
   <details>
   <summary>Model selecteren</summary>
   <ol>
-Hier evalueer ik het proces
+
+In machine learning, there are thousands of different prediction models. To make the right choice for the research between these models, it must first be clear what must be predicted. In order to predict a continuous target, a regression model is needed (Minaie, 2021). But for predicting a discrete target, a classification model should be used (Minaie, 2021).<br />
+Because the Start(V)aardig research is aiming to predict whether someone has motoric skills, it is referred to as a classification model. Because a child is either classified as motor impaired or not. Phyton offers many options regarding classification models. The best-known classification models in the scikit-learn library were used for this research.
+The basic classification models are (Minaie, 2021):<br />
+    
+Logistic Regression (LogReg):<br /> 
+This classification model is used when there is a multiple classification purpose. This model is more suitable for linear cases when this model is compared to the KNN.<br />
+    
+KNN (or K-Nearest Neighbors):<br />
+In general, this classification model is considered less efficient than a LogReg model and is used with non-linear solutions. As the name gives away, this model bases the classifications on the number of closest points (neighbours).<br />
+    
+The advanced classification models are (Minaie, 2021):<br />
+
+Decision trees:<br /> 
+are non-parametric supervised learning, which means that it is possible for these models to deal with outliers. However, these models quickly overfit to the training dataset, so it must be taken care to avoid this. Decisions trees also form the basis of better models such as:<br />
+- Bagging models:<br /> 
+These models fit the base classifier to arbitrary subsets of the original dataset and then aggregate them to get a definitive prediction. This can be done by voting or by means of the average.<br />
+- RandomForest (Dmitrievsky, 2018):<br /> 
+It can be said that a RandomForest is a special form of bagging. A RandomForest consists of a plurality of decision trees. Each tree is a simple model that has branches, nodes, and leaves. The nodes have the information on which the objective function depends. Then the value of the objective function moves to the leaves through the branches. Depending on certain conditions, the objective variables are given a certain classification.<br />
+- GradientBoosting:<br />
+In Boosting models, the trees with the highest accuracy score are drawn ahead. The trees with a lower accuracy score are weighted less heavily, so they have less impact on the final prediction.<br />
+
+    
 </details>
     
   <!-- Model configureren -->
