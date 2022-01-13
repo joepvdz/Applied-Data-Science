@@ -318,9 +318,9 @@ Onvoldoende beweging kan het gevolg zijn van:
   <summary>Data voorverwerking</summary>
   <ol>
     
-  <!-- Verschillende dataframes gemaakt -->
+  <!-- Berekeningen met behulp van phyton -->
   <details>
-  <summary>Verschillende dataframes gemaakt</summary>
+  <summary>Berekeningen met behulp van phyton</summary>
   <ol>
     
  Voor mijn modellen heb ik de volgende variabelen berekend met behulp van phyton:<br />
