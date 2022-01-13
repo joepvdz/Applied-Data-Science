@@ -396,7 +396,7 @@ Hier evalueer ik het proces
   <summary>Paper schrijven</summary>
   <ol>
 
- Mijn aandeel in het schrijven van de paper is als volgt: <br />
+ Mijn aandeel in het schrijven van de [paper](https://github.com/joepvdz/Applied-Data-Science/blob/main/paper.docx) is als volgt: <br />
     - Lay-out van de paper opzetten <br />
     - introductie geschreven <br />
     - hoofdvraag en deelvragen geschreven <br />
