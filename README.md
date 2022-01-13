@@ -345,7 +345,7 @@ Onvoldoende beweging kan het gevolg zijn van:
     
   <!-- Dataframes samengevoegd, schoongemaakt en voorbereid voor de modellen -->
   <details>
-  <summary>Data schoonmaken</summary>
+  <summary>Dataframes samengevoegd, schoongemaakt en voorbereid voor de modellen</summary>
   <ol>
     
  De Dataframes uit de vorige paragraaf heb ik vervolgens in [DIT](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20merging%20dataframes.ipynb) bestand samengevoegd, schoongemaakt en voorbereid voor de modellen.
