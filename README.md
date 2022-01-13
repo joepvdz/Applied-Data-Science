@@ -270,14 +270,25 @@ Met alle overeenkomsten geven deze bestaande onderzoeken een interessant inzicht
   <ol>
 
 ## Motoric score
-De MS is de uitkomst van de volgense formule AST-1/50e percentiel(Gender en leeftijd gebonden)*100. Waarvan de AST-1 bestaat uit een tijd die een kind er over doet om een parkour af te leggen.  
+De MS is de uitkomst van de volgende formule: AST-1/50e percentiel(Gender en leeftijd gebonden)*100. Waarvan de AST-1 bestaat uit een tijd die een kind er over doet om een parkour af te leggen.  
     
 ## Motoric coefficient
-De MC is de MS score geclassificeerd in één van de vijf categoriën    
+De MC is de MS score geclassificeerd in één van de vijf categoriën. deze worden vervolgens als volgt ingedeeld:<br />
+    - categorie 1: zware motorische achterstand<br />
+    - categorie 2: motorische achterstand<br />
+    - categorie 3: motorische gemiddelde score<br />
+    - categorie 4: motorisch begaafd<br />
+    - categorie 5: zwaar motorisch begaafd<br />
+    
 ## BMI
+De BMI van een kind wordt berekend door middel van de volgende formule: lichaamsgewicht in KG/(lichaamslengte in meter * lichaamslengte in meter)
     
 ## BMI score
-  
+Met behulp van de BMI, leeftijd en gender van een kind kan BMI score geclassificeerd worden in één van de drie categoriën. Deze worden als volgt ingedeeld: <br />
+    - categorie 1: normaal gewicht <br />
+    - categorie 2: overgewicht <br />
+    - categorie 3: obesitas <br />
+
 ## Cerebrale Parese
 CP is een blijvende aandoening van de hersenen met blijvende effecten voor de ontwikkeling van houding en beweging, ontstaan voor de eerste verjaardag, die leidt tot beperkingen in dagelijkse activiteiten. CP is een frequente oorzaak van bewegingsproblemen bij kinderen en komt voor bij ongeveer 2-2,5 van de 1.000 levendgeborenen. CP komt vaker voor bij kinderen met een zeer laag geboortegewicht, bij prematuren en bij kinderen met zuurstoftekort rond de bevalling. De manier van bevallen (natuurlijke bevalling of sectio) heeft nauwelijks invloed op het ontstaan van CP. Het verloop kan hierop wel van invloed zijn (strakke omstrengeling, foetale nood).
  
