@@ -382,14 +382,27 @@ Hier evalueer ik het proces
   <details>
   <summary>presentatie</summary>
   <ol>
-Hier evalueer ik het proces
-</details>
+
+ De volgende presentaties heb ik gepresenteerd en tevens ook gemaakt of een aandeel gehad in het maken van de presentatie.: <br />
+    - [Interne Presentatie 2](https://github.com/joepvdz/Applied-Data-Science/blob/main/Presentations/Internal%20presentation%202.pptx) <br />
+    - [Interne Presentatie 5](https://github.com/joepvdz/Applied-Data-Science/blob/main/Presentations/Internal%20presentation%205%20(lay%20out).pptx) <br />
+    - [Interne presentatie 8](https://github.com/joepvdz/Applied-Data-Science/blob/main/Presentations/Internal%20presentation%208.pptx) <br />
+    - [Learning lab](https://github.com/joepvdz/Applied-Data-Science/blob/main/Presentations/Learning%20Lab%20Motoric.pptx) <br />
+    
+  </details>
     
   <!-- Paper schrijven-->
   <details>
   <summary>Paper schrijven</summary>
   <ol>
-Hier evalueer ik het proces
+
+ Mijn aandeel in het schrijven van de paper is als volgt: <br />
+    - Lay-out van de paper opzetten <br />
+    - introductie geschreven <br />
+    - hoofdvraag en deelvragen geschreven <br />
+    - het onderdeel Models geschreven <br />
+    - het invullen van de resultaten <br />
+    
 </details>
     
    
