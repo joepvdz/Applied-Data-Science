@@ -204,35 +204,19 @@ In Boosting models, the trees with the highest accuracy score are drawn ahead. T
     
 </details>
     
-  <!-- Model configureren -->
+  <!-- Model configureren, trainen, evalueren en visualiseren -->
   <details>
-  <summary>Model configureren</summary>
+  <summary>Model configureren, trainen, evalueren en visualiseren</summary>
   <ol>
-Hier evalueer ik het proces
+
+Ik heb individueel aan de volgende vier modellen gewerkt:<br />
+    - [K-nearest neighbours](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/8-12-21%20KNN.ipynb)<br />
+    - [Random forest](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/8-12-21%20RF%20model.ipynb)<br />
+    - [Bagging classifier](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/9-12-21%20Bagging%20classifier%20model.ipynb)<br />
+    - [Gradient boosting](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/9-12-21%20GradientBoost%20model.ipynb)<br />
+ 
 </details>
-    
-  <!-- Model trainen -->
-  <details>
-  <summary>Model trainen</summary>
-  <ol>
-Hier evalueer ik het proces
-</details>
-    
-  <!-- Model evalueren -->
-  <details>
-  <summary>Model evalueren</summary>
-  <ol>
-Hier evalueer ik het proces
-</details>
-    
-  <!-- Model visualiseren -->
-  <details>
-  <summary>Model visualiseren</summary>
-  <ol>
-Hier evalueer ik het proces
-</details>
-    
-  </ol>
+
 </details>
 
 <!-- Domein kennis -->
@@ -333,44 +317,41 @@ Onvoldoende beweging kan het gevolg zijn van:
 <details>
   <summary>Data voorverwerking</summary>
   <ol>
-
-  <!-- Data verkenning -->
+    
+  <!-- Verschillende dataframes gemaakt -->
   <details>
-  <summary>Data verkenning</summary>
+  <summary>Verschillende dataframes gemaakt</summary>
   <ol>
-Hier evalueer ik het proces
+    
+ Voor mijn modellen heb ik de volgende variabelen berekend met behulp van phyton:<br />
+    - [BMI score](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/BMI-category.ipynb)<br />
+    - [MQ categorie van T1](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/MQT1.ipynb)<br />
+
+    
+</details>
+
+  <!-- Verschillende dataframes gemaakt -->
+  <details>
+  <summary>Verschillende dataframes gemaakt</summary>
+  <ol>
+    
+ Voor mijn modellen heb ik de volgende dataframes toegevoegd aan de TO data:<br />
+    - [CBS data over inkomen per postcode](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20exploring%20CBS%20income.ipynb)<br />
+    - [CBS data over migratie achtergrond per postcode](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20exploring%20CBS%20migration.ipynb)<br />
+    - [CBS data over kerncijfers per postcode](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/8-12-21%20exploring%20CBS%20zipcode%20stats.ipynb)<br />
+    - [Vragenlijst ingevuld door de ouders van het kind](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20exploring%20Q.ipynb)<br />
+    
 </details>
     
-  <!-- Data schoonmaken -->
+  <!-- Dataframes samengevoegd, schoongemaakt en voorbereid voor de modellen -->
   <details>
   <summary>Data schoonmaken</summary>
   <ol>
-Hier evalueer ik het proces
+    
+ De Dataframes uit de vorige paragraaf heb ik vervolgens in [dit](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20merging%20dataframes.ipynb) bestand samengevoegd, schoongemaakt en voorbereid voor de modellen.
+    
 </details>
     
-  <!-- Data voorbereiding -->
-  <details>
-  <summary>Data voorbereiding</summary>
-  <ol>
-Hier evalueer ik het proces
-</details>
-    
-  <!-- Data uitleg -->
-  <details>
-  <summary>Data uitleg</summary>
-  <ol>
-Hier evalueer ik het proces
-</details>
-    
-  <!-- Data visualisatie -->
-  <details>
-  <summary>Data visualisatie</summary>
-  <ol>
-Hier evalueer ik het proces
-</details>
-    
-
-  </ol>
 </details>
 
 <!-- Communicatie -->
