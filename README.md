@@ -335,7 +335,7 @@ Onvoldoende beweging kan het gevolg zijn van:
   <summary>Verschillende dataframes gemaakt</summary>
   <ol>
     
- Voor mijn modellen heb ik de volgende dataframes toegevoegd aan de TO data:<br />
+ Voor mijn modellen heb ik de volgende dataframes toegevoegd aan de [TO data](https://github.com/joepvdz/Applied-Data-Science/blob/main/T0_without_nan_columns.csv):<br />
     - [CBS data over inkomen per postcode](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20exploring%20CBS%20income.ipynb)<br />
     - [CBS data over migratie achtergrond per postcode](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20exploring%20CBS%20migration.ipynb)<br />
     - [CBS data over kerncijfers per postcode](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/8-12-21%20exploring%20CBS%20zipcode%20stats.ipynb)<br />
@@ -348,7 +348,7 @@ Onvoldoende beweging kan het gevolg zijn van:
   <summary>Data schoonmaken</summary>
   <ol>
     
- De Dataframes uit de vorige paragraaf heb ik vervolgens in [dit](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20merging%20dataframes.ipynb) bestand samengevoegd, schoongemaakt en voorbereid voor de modellen.
+ De Dataframes uit de vorige paragraaf heb ik vervolgens in [DIT](https://github.com/joepvdz/Applied-Data-Science/blob/main/notebooks/7-12-21%20merging%20dataframes.ipynb) bestand samengevoegd, schoongemaakt en voorbereid voor de modellen.
     
 </details>
     
